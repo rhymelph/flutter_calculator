@@ -1,5 +1,5 @@
-# flutter_calcular
-➕➖✖➗mac calcular
+# flutter_calculator
+➕➖✖➗mac calculator
 
 # About
 
